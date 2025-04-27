@@ -1,4 +1,4 @@
-## Hi I'm Sopida chiangsaen👋
+## Hi I'm Sopida chiangsaen I'm a 3rd-year student at Huachiew Chalermprakiet University, Faculty of Science and Technology, majoring in Computer Science."
 
 Github Profile https://sopida145.github.io/
 <!--
